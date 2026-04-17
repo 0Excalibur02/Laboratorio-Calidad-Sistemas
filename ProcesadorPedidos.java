@@ -32,5 +32,4 @@ public class ProcesadorPedidos {
         p.procesar(10, "ACTIVO");
         System.out.println("Impuesto: " + p.calcularImpuesto());
     }
-    
 }
